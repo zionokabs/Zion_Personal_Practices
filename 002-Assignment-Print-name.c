@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	char name[] ="Name";
+	char name[] ="My first Name is Zion";
 	for (int i = 0; name[i] != '\0'; i++)
 	{
 		putchar(name[i]);
